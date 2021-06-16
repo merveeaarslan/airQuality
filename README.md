@@ -1,2 +1,7 @@
-# airQuality-artificialNeuralNetworks
-Yapay sinir ağı ile hava kalitesi modeli oluşturma
+# airQuality-
+Hava kalitesi modeli oluşturma
+Artificial Neural Network
+Decision Tree
+K-Nearest Neighbor
+Logistic Regression
+Multilayer Perceptron
